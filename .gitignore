@@ -1,12 +1,19 @@
-# built application files
+# built application files apk - android, tpk - Tizen, ipa - iOS
 *.apk
 *.ap_
+*.tpk
 
 # files for the dex VM
 *.dex
 
 # Java class files
 *.class
+
+# C# class files
+*.cs
+
+# Configartion files
+*.xml
 
 # generated files
 bin/
