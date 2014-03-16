@@ -60,6 +60,7 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
+*.meta
 
 # Intellij project files
 *.iml
